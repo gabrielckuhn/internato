@@ -921,7 +921,7 @@ body::before{
         <td class="row-header turn-afternoon"><span class="turn-emoji">🌤</span><span class="turn-time">13h&nbsp;·&nbsp;18h</span></td>
         <td class="data-cell"><span class="cell-free">A confirmar supervisor</span></td>
         <td class="data-cell"><span class="cell-free">A confirmar supervisor</span></td>
-        <td class="data-cell"><span class="act-name">TERESA</span><span class="act-sub">Simulação</span><span class="loc-chip loc-ped">UNIT</span></td>
+        <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
         <td class="data-cell"><span class="act-name">TERESA</span><span class="act-sub">Simulação</span><span class="loc-chip loc-ped">UNIT</span></td>
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
         <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
@@ -961,7 +961,7 @@ body::before{
         <td class="row-header turn-afternoon"><span class="turn-emoji">🌤</span><span class="turn-time">13h&nbsp;·&nbsp;18h</span></td>
         <td class="data-cell"><span class="cell-free">A confirmar supervisor</span></td>
         <td class="data-cell"><span class="cell-free">A confirmar supervisor</span></td>
-        <td class="data-cell"><span class="act-name">TERESA</span><span class="act-sub">Simulação</span><span class="loc-chip loc-ped">UNIT</span></td>
+        <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
         <td class="data-cell"><span class="act-name">TERESA</span><span class="act-sub">Simulação</span><span class="loc-chip loc-ped">UNIT</span></td>
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
         <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
@@ -1001,7 +1001,7 @@ body::before{
         <td class="row-header turn-afternoon"><span class="turn-emoji">🌤</span><span class="turn-time">13h&nbsp;·&nbsp;18h</span></td>
         <td class="data-cell"><span class="cell-free">A confirmar supervisor</span></td>
         <td class="data-cell"><span class="cell-free">A confirmar supervisor</span></td>
-        <td class="data-cell"><span class="act-name">TERESA</span><span class="act-sub">Simulação</span><span class="loc-chip loc-ped">UNIT</span></td>
+        <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
         <td class="data-cell"><span class="act-name">TERESA</span><span class="act-sub">Simulação</span><span class="loc-chip loc-ped">UNIT</span></td>
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
         <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
