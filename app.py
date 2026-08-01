@@ -915,8 +915,8 @@ body::before{
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
         <td class="data-cell"><span class="act-name">ELAINE</span><span class="act-sub">Doenças Crônicas</span><span class="loc-chip loc-ped">AMB — Complexo UNIT</span></td>
-        <td class="data-cell"><span class="act-name">RAUL</span><span class="act-sub">Sala Vermelha 15×15 (metade)</span><span class="loc-chip loc-ped">HUSE</span></td>
-        <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
+        <td class="data-cell"><span class="act-name">RAUL</span><span class="act-sub">Sala Vermelha 15×15 (metade)</span><span class="loc-chip loc-ped">HUSE</span><br><span class="act-name" style="margin-top:4px;display:block">FLÁVIA SP</span><span class="act-sub">Metade da turma (1x/mês)</span><span class="loc-chip loc-ped">MNSL</span></td>
+        <td class="data-cell"><span class="act-name">FLÁVIA SP</span><span class="act-sub">Metade da turma (1x/mês)</span><span class="loc-chip loc-ped">MNSL</span></td>
       </tr>
       <tr>
         <td class="row-header turn-afternoon"><span class="turn-emoji">🌤</span><span class="turn-time">13h&nbsp;·&nbsp;18h</span></td>
@@ -925,8 +925,8 @@ body::before{
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
         <td class="data-cell"><span class="act-name">TERESA</span><span class="act-sub">Simulação</span><span class="loc-chip loc-ped">UNIT</span></td>
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
-        <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
-        <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
+        <td class="data-cell"><span class="act-name">FLÁVIA SP</span><span class="act-sub">Metade da turma (1x/mês)</span><span class="loc-chip loc-ped">MNSL</span></td>
+        <td class="data-cell"><span class="act-name">FLÁVIA SP</span><span class="act-sub">Metade da turma (1x/mês)</span><span class="loc-chip loc-ped">MNSL</span></td>
       </tr>
       <tr>
         <td class="row-header turn-night"><span class="turn-emoji">🌙</span><span class="turn-time">19h&nbsp;·&nbsp;24h</span></td>
@@ -958,8 +958,8 @@ body::before{
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
         <td class="data-cell"><span class="act-name">ELAINE</span><span class="act-sub">Doenças Crônicas</span><span class="loc-chip loc-ped">AMB — Complexo UNIT</span></td>
-        <td class="data-cell"><span class="act-name">RAUL</span><span class="act-sub">Sala Vermelha 15×15 (metade)</span><span class="loc-chip loc-ped">HUSE</span></td>
-        <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
+        <td class="data-cell"><span class="act-name">RAUL</span><span class="act-sub">Sala Vermelha 15×15 (metade)</span><span class="loc-chip loc-ped">HUSE</span><br><span class="act-name" style="margin-top:4px;display:block">FLÁVIA SP</span><span class="act-sub">Metade da turma (1x/mês)</span><span class="loc-chip loc-ped">MNSL</span></td>
+        <td class="data-cell"><span class="act-name">FLÁVIA SP</span><span class="act-sub">Metade da turma (1x/mês)</span><span class="loc-chip loc-ped">MNSL</span></td>
       </tr>
       <tr>
         <td class="row-header turn-afternoon"><span class="turn-emoji">🌤</span><span class="turn-time">13h&nbsp;·&nbsp;18h</span></td>
@@ -968,8 +968,8 @@ body::before{
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
         <td class="data-cell"><span class="act-name">TERESA</span><span class="act-sub">Simulação</span><span class="loc-chip loc-ped">UNIT</span></td>
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
-        <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
-        <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
+        <td class="data-cell"><span class="act-name">FLÁVIA SP</span><span class="act-sub">Metade da turma (1x/mês)</span><span class="loc-chip loc-ped">MNSL</span></td>
+        <td class="data-cell"><span class="act-name">FLÁVIA SP</span><span class="act-sub">Metade da turma (1x/mês)</span><span class="loc-chip loc-ped">MNSL</span></td>
       </tr>
       <tr>
         <td class="row-header turn-night"><span class="turn-emoji">🌙</span><span class="turn-time">19h&nbsp;·&nbsp;24h</span></td>
@@ -1001,8 +1001,8 @@ body::before{
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
         <td class="data-cell"><span class="act-name">ELAINE</span><span class="act-sub">Doenças Crônicas</span><span class="loc-chip loc-ped">AMB — Complexo UNIT</span></td>
-        <td class="data-cell"><span class="act-name">RAUL</span><span class="act-sub">Sala Vermelha 15×15 (metade)</span><span class="loc-chip loc-ped">HUSE</span></td>
-        <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
+        <td class="data-cell"><span class="act-name">RAUL</span><span class="act-sub">Sala Vermelha 15×15 (metade)</span><span class="loc-chip loc-ped">HUSE</span><br><span class="act-name" style="margin-top:4px;display:block">FLÁVIA SP</span><span class="act-sub">Metade da turma (1x/mês)</span><span class="loc-chip loc-ped">MNSL</span></td>
+        <td class="data-cell"><span class="act-name">FLÁVIA SP</span><span class="act-sub">Metade da turma (1x/mês)</span><span class="loc-chip loc-ped">MNSL</span></td>
       </tr>
       <tr>
         <td class="row-header turn-afternoon"><span class="turn-emoji">🌤</span><span class="turn-time">13h&nbsp;·&nbsp;18h</span></td>
@@ -1011,8 +1011,8 @@ body::before{
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
         <td class="data-cell"><span class="act-name">TERESA</span><span class="act-sub">Simulação</span><span class="loc-chip loc-ped">UNIT</span></td>
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
-        <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
-        <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
+        <td class="data-cell"><span class="act-name">FLÁVIA SP</span><span class="act-sub">Metade da turma (1x/mês)</span><span class="loc-chip loc-ped">MNSL</span></td>
+        <td class="data-cell"><span class="act-name">FLÁVIA SP</span><span class="act-sub">Metade da turma (1x/mês)</span><span class="loc-chip loc-ped">MNSL</span></td>
       </tr>
       <tr>
         <td class="row-header turn-night"><span class="turn-emoji">🌙</span><span class="turn-time">19h&nbsp;·&nbsp;24h</span></td>
