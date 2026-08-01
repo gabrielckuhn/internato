@@ -902,10 +902,10 @@ body::before{
   <!-- SEM 05 -->
   <div class="cross-table-wrap type-ped">
   <table class="cross-table">
-    <colgroup><col class="col-turno"><col class="col-day"><col class="col-day"><col class="col-day"><col class="col-day"><col class="col-day"><col class="col-day"></colgroup>
+    <colgroup><col class="col-turno"><col class="col-day"><col class="col-day"><col class="col-day"><col class="col-day"><col class="col-day"><col class="col-day"><col class="col-day"></colgroup>
     <thead>
-      <tr><th>Turno / Dia</th><th class="week-th" colspan="6">SEM 05 &nbsp;·&nbsp; 10–15/08</th></tr>
-      <tr class="day-header-row"><th class="week-switch-cell"><label class="week-switch" title="Marcar SEM 05 como concluída"><input type="checkbox" class="week-done-toggle" data-week="05"><span class="week-switch-track"></span><span class="week-switch-icon">✓</span></label></th><th>Seg 10/08</th><th>Ter 11/08</th><th>Qua 12/08</th><th>Qui 13/08</th><th>Sex 14/08</th><th>Sáb 15/08</th></tr>
+      <tr><th>Turno / Dia</th><th class="week-th" colspan="7">SEM 05 &nbsp;·&nbsp; 10–15/08</th></tr>
+      <tr class="day-header-row"><th class="week-switch-cell"><label class="week-switch" title="Marcar SEM 05 como concluída"><input type="checkbox" class="week-done-toggle" data-week="05"><span class="week-switch-track"></span><span class="week-switch-icon">✓</span></label></th><th>Seg 10/08</th><th>Ter 11/08</th><th>Qua 12/08</th><th>Qui 13/08</th><th>Sex 14/08</th><th>Sáb 15/08</th><th>Dom 16/08</th></tr>
     </thead>
     <tbody>
       <tr>
@@ -916,6 +916,7 @@ body::before{
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
         <td class="data-cell"><span class="act-name">ELAINE</span><span class="act-sub">Doenças Crônicas</span><span class="loc-chip loc-ped">AMB — Complexo UNIT</span></td>
         <td class="data-cell"><span class="act-name">RAUL</span><span class="act-sub">Sala Vermelha 15×15 (metade)</span><span class="loc-chip loc-ped">HUSE</span></td>
+        <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
       </tr>
       <tr>
         <td class="row-header turn-afternoon"><span class="turn-emoji">🌤</span><span class="turn-time">13h&nbsp;·&nbsp;18h</span></td>
@@ -924,6 +925,7 @@ body::before{
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
         <td class="data-cell"><span class="act-name">TERESA</span><span class="act-sub">Simulação</span><span class="loc-chip loc-ped">UNIT</span></td>
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
+        <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
         <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
       </tr>
       <tr>
@@ -934,6 +936,17 @@ body::before{
         <td class="data-cell"><span class="cell-free">—</span></td>
         <td class="data-cell"><span class="cell-free">—</span></td>
         <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
+        <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
+      </tr>
+      <tr>
+        <td class="row-header turn-day"><span class="turn-emoji">🗓️</span><span class="turn-time">07h&nbsp;·&nbsp;19h</span></td>
+        <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
+        <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
+        <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
+        <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
+        <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
+        <td class="data-cell"><span class="act-name">FLÁVIA</span><span class="act-sub">SP · MNSL · Metade da turma (1x/mês)</span></td>
+        <td class="data-cell"><span class="act-name">FLÁVIA</span><span class="act-sub">SP · MNSL · Metade da turma (1x/mês)</span></td>
       </tr>
     </tbody>
   </table>
@@ -942,10 +955,10 @@ body::before{
   <!-- SEM 06 -->
   <div class="cross-table-wrap type-ped">
   <table class="cross-table">
-    <colgroup><col class="col-turno"><col class="col-day"><col class="col-day"><col class="col-day"><col class="col-day"><col class="col-day"><col class="col-day"></colgroup>
+    <colgroup><col class="col-turno"><col class="col-day"><col class="col-day"><col class="col-day"><col class="col-day"><col class="col-day"><col class="col-day"><col class="col-day"></colgroup>
     <thead>
-      <tr><th>Turno / Dia</th><th class="week-th" colspan="6">SEM 06 &nbsp;·&nbsp; 17–22/08</th></tr>
-      <tr class="day-header-row"><th class="week-switch-cell"><label class="week-switch" title="Marcar SEM 06 como concluída"><input type="checkbox" class="week-done-toggle" data-week="06"><span class="week-switch-track"></span><span class="week-switch-icon">✓</span></label></th><th>Seg 17/08</th><th>Ter 18/08</th><th>Qua 19/08</th><th>Qui 20/08</th><th>Sex 21/08</th><th>Sáb 22/08</th></tr>
+      <tr><th>Turno / Dia</th><th class="week-th" colspan="7">SEM 06 &nbsp;·&nbsp; 17–22/08</th></tr>
+      <tr class="day-header-row"><th class="week-switch-cell"><label class="week-switch" title="Marcar SEM 06 como concluída"><input type="checkbox" class="week-done-toggle" data-week="06"><span class="week-switch-track"></span><span class="week-switch-icon">✓</span></label></th><th>Seg 17/08</th><th>Ter 18/08</th><th>Qua 19/08</th><th>Qui 20/08</th><th>Sex 21/08</th><th>Sáb 22/08</th><th>Dom 23/08</th></tr>
     </thead>
     <tbody>
       <tr>
@@ -956,6 +969,7 @@ body::before{
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
         <td class="data-cell"><span class="act-name">ELAINE</span><span class="act-sub">Doenças Crônicas</span><span class="loc-chip loc-ped">AMB — Complexo UNIT</span></td>
         <td class="data-cell"><span class="act-name">RAUL</span><span class="act-sub">Sala Vermelha 15×15 (metade)</span><span class="loc-chip loc-ped">HUSE</span></td>
+        <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
       </tr>
       <tr>
         <td class="row-header turn-afternoon"><span class="turn-emoji">🌤</span><span class="turn-time">13h&nbsp;·&nbsp;18h</span></td>
@@ -964,6 +978,7 @@ body::before{
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
         <td class="data-cell"><span class="act-name">TERESA</span><span class="act-sub">Simulação</span><span class="loc-chip loc-ped">UNIT</span></td>
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
+        <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
         <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
       </tr>
       <tr>
@@ -974,6 +989,17 @@ body::before{
         <td class="data-cell"><span class="cell-free">—</span></td>
         <td class="data-cell"><span class="cell-free">—</span></td>
         <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
+        <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
+      </tr>
+      <tr>
+        <td class="row-header turn-day"><span class="turn-emoji">🗓️</span><span class="turn-time">07h&nbsp;·&nbsp;19h</span></td>
+        <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
+        <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
+        <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
+        <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
+        <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
+        <td class="data-cell"><span class="act-name">FLÁVIA</span><span class="act-sub">SP · MNSL · Metade da turma (1x/mês)</span></td>
+        <td class="data-cell"><span class="act-name">FLÁVIA</span><span class="act-sub">SP · MNSL · Metade da turma (1x/mês)</span></td>
       </tr>
     </tbody>
   </table>
@@ -982,10 +1008,10 @@ body::before{
   <!-- SEM 07 -->
   <div class="cross-table-wrap type-ped">
   <table class="cross-table">
-    <colgroup><col class="col-turno"><col class="col-day"><col class="col-day"><col class="col-day"><col class="col-day"><col class="col-day"><col class="col-day"></colgroup>
+    <colgroup><col class="col-turno"><col class="col-day"><col class="col-day"><col class="col-day"><col class="col-day"><col class="col-day"><col class="col-day"><col class="col-day"></colgroup>
     <thead>
-      <tr><th>Turno / Dia</th><th class="week-th" colspan="6">SEM 07 &nbsp;·&nbsp; 24–29/08</th></tr>
-      <tr class="day-header-row"><th class="week-switch-cell"><label class="week-switch" title="Marcar SEM 07 como concluída"><input type="checkbox" class="week-done-toggle" data-week="07"><span class="week-switch-track"></span><span class="week-switch-icon">✓</span></label></th><th>Seg 24/08</th><th>Ter 25/08</th><th>Qua 26/08</th><th>Qui 27/08</th><th>Sex 28/08</th><th>Sáb 29/08</th></tr>
+      <tr><th>Turno / Dia</th><th class="week-th" colspan="7">SEM 07 &nbsp;·&nbsp; 24–29/08</th></tr>
+      <tr class="day-header-row"><th class="week-switch-cell"><label class="week-switch" title="Marcar SEM 07 como concluída"><input type="checkbox" class="week-done-toggle" data-week="07"><span class="week-switch-track"></span><span class="week-switch-icon">✓</span></label></th><th>Seg 24/08</th><th>Ter 25/08</th><th>Qua 26/08</th><th>Qui 27/08</th><th>Sex 28/08</th><th>Sáb 29/08</th><th>Dom 30/08</th></tr>
     </thead>
     <tbody>
       <tr>
@@ -996,6 +1022,7 @@ body::before{
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
         <td class="data-cell"><span class="act-name">ELAINE</span><span class="act-sub">Doenças Crônicas</span><span class="loc-chip loc-ped">AMB — Complexo UNIT</span></td>
         <td class="data-cell"><span class="act-name">RAUL</span><span class="act-sub">Sala Vermelha 15×15 (metade)</span><span class="loc-chip loc-ped">HUSE</span></td>
+        <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
       </tr>
       <tr>
         <td class="row-header turn-afternoon"><span class="turn-emoji">🌤</span><span class="turn-time">13h&nbsp;·&nbsp;18h</span></td>
@@ -1004,6 +1031,7 @@ body::before{
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
         <td class="data-cell"><span class="act-name">TERESA</span><span class="act-sub">Simulação</span><span class="loc-chip loc-ped">UNIT</span></td>
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
+        <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
         <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
       </tr>
       <tr>
@@ -1014,6 +1042,17 @@ body::before{
         <td class="data-cell"><span class="cell-free">—</span></td>
         <td class="data-cell"><span class="cell-free">—</span></td>
         <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
+        <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
+      </tr>
+      <tr>
+        <td class="row-header turn-day"><span class="turn-emoji">🗓️</span><span class="turn-time">07h&nbsp;·&nbsp;19h</span></td>
+        <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
+        <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
+        <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
+        <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
+        <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
+        <td class="data-cell"><span class="act-name">FLÁVIA</span><span class="act-sub">SP · MNSL · Metade da turma (1x/mês)</span></td>
+        <td class="data-cell"><span class="act-name">FLÁVIA</span><span class="act-sub">SP · MNSL · Metade da turma (1x/mês)</span></td>
       </tr>
     </tbody>
   </table>
@@ -1043,7 +1082,7 @@ body::before{
     <tbody>
       <tr>
         <td class="row-header turn-morning"><span class="turn-emoji">☀️</span><span class="turn-time">07h&nbsp;·&nbsp;12h</span></td>
-        <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
+        <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
         <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
         <td class="data-cell"><span class="act-name">PSF RURAL · LAÍS BATISTA</span><span class="loc-chip loc-psf10">UBS Gabriel Alves da Paixão</span></td>
         <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
@@ -1052,9 +1091,9 @@ body::before{
       </tr>
       <tr>
         <td class="row-header turn-afternoon"><span class="turn-emoji">🌤</span><span class="turn-time">13h&nbsp;·&nbsp;18h</span></td>
-        <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
-        <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
+        <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
+        <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
         <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
         <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
@@ -1074,7 +1113,7 @@ body::before{
     <tbody>
       <tr>
         <td class="row-header turn-morning"><span class="turn-emoji">☀️</span><span class="turn-time">07h&nbsp;·&nbsp;12h</span></td>
-        <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
+        <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
         <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
         <td class="data-cell"><span class="act-name">PSF RURAL · LAÍS BATISTA</span><span class="loc-chip loc-psf10">UBS Gabriel Alves da Paixão</span></td>
         <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
@@ -1083,9 +1122,9 @@ body::before{
       </tr>
       <tr>
         <td class="row-header turn-afternoon"><span class="turn-emoji">🌤</span><span class="turn-time">13h&nbsp;·&nbsp;18h</span></td>
-        <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
-        <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
+        <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
+        <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
         <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
         <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
@@ -1105,7 +1144,7 @@ body::before{
     <tbody>
       <tr>
         <td class="row-header turn-morning"><span class="turn-emoji">☀️</span><span class="turn-time">07h&nbsp;·&nbsp;12h</span></td>
-        <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
+        <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
         <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
         <td class="data-cell"><span class="act-name">PSF RURAL · LAÍS BATISTA</span><span class="loc-chip loc-psf10">UBS Gabriel Alves da Paixão</span></td>
         <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
@@ -1114,9 +1153,9 @@ body::before{
       </tr>
       <tr>
         <td class="row-header turn-afternoon"><span class="turn-emoji">🌤</span><span class="turn-time">13h&nbsp;·&nbsp;18h</span></td>
-        <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
-        <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
+        <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
+        <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
         <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
         <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
@@ -1136,7 +1175,7 @@ body::before{
     <tbody>
       <tr>
         <td class="row-header turn-morning"><span class="turn-emoji">☀️</span><span class="turn-time">07h&nbsp;·&nbsp;12h</span></td>
-        <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
+        <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
         <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
         <td class="data-cell"><span class="act-name">PSF RURAL · LAÍS BATISTA</span><span class="loc-chip loc-psf10">UBS Gabriel Alves da Paixão</span></td>
         <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
@@ -1145,9 +1184,9 @@ body::before{
       </tr>
       <tr>
         <td class="row-header turn-afternoon"><span class="turn-emoji">🌤</span><span class="turn-time">13h&nbsp;·&nbsp;18h</span></td>
-        <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
-        <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
+        <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
+        <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
         <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
         <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
@@ -1167,7 +1206,7 @@ body::before{
     <tbody>
       <tr>
         <td class="row-header turn-morning"><span class="turn-emoji">☀️</span><span class="turn-time">07h&nbsp;·&nbsp;12h</span></td>
-        <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
+        <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
         <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
         <td class="data-cell"><span class="act-name">PSF RURAL · LAÍS BATISTA</span><span class="loc-chip loc-psf10">UBS Gabriel Alves da Paixão</span></td>
         <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
@@ -1176,9 +1215,9 @@ body::before{
       </tr>
       <tr>
         <td class="row-header turn-afternoon"><span class="turn-emoji">🌤</span><span class="turn-time">13h&nbsp;·&nbsp;18h</span></td>
-        <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
-        <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
+        <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
+        <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
         <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
         <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
@@ -1198,7 +1237,7 @@ body::before{
     <tbody>
       <tr>
         <td class="row-header turn-morning"><span class="turn-emoji">☀️</span><span class="turn-time">07h&nbsp;·&nbsp;12h</span></td>
-        <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
+        <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
         <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
         <td class="data-cell"><span class="act-name">PSF RURAL · LAÍS BATISTA</span><span class="loc-chip loc-psf10">UBS Gabriel Alves da Paixão</span></td>
         <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
@@ -1207,9 +1246,9 @@ body::before{
       </tr>
       <tr>
         <td class="row-header turn-afternoon"><span class="turn-emoji">🌤</span><span class="turn-time">13h&nbsp;·&nbsp;18h</span></td>
-        <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
-        <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
+        <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
+        <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
         <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
         <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
@@ -1229,7 +1268,7 @@ body::before{
     <tbody>
       <tr>
         <td class="row-header turn-morning"><span class="turn-emoji">☀️</span><span class="turn-time">07h&nbsp;·&nbsp;12h</span></td>
-        <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
+        <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
         <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
         <td class="data-cell"><span class="act-name">PSF RURAL · LAÍS BATISTA</span><span class="loc-chip loc-psf10">UBS Gabriel Alves da Paixão</span></td>
         <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
@@ -1238,9 +1277,9 @@ body::before{
       </tr>
       <tr>
         <td class="row-header turn-afternoon"><span class="turn-emoji">🌤</span><span class="turn-time">13h&nbsp;·&nbsp;18h</span></td>
-        <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
-        <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
+        <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
+        <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
         <td class="data-cell"><span class="act-name">MARCOS SUZUKI</span><span class="loc-chip loc-psf10">UBS Santa Terezinha — Robalo</span></td>
         <td class="data-cell"><span class="cell-free">Sem atividade</span></td>
         <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
@@ -1273,19 +1312,19 @@ body::before{
     <tbody>
       <tr>
         <td class="row-header turn-morning"><span class="turn-emoji">☀️</span><span class="turn-time">07h&nbsp;·&nbsp;12h</span></td>
+        <td class="data-cell"><span class="cell-free">Sem atividade (segunda)</span></td>
         <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
         <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
-        <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
-        <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
+        <td class="data-cell"><span class="cell-free">Sem atividade (quinta)</span></td>
         <td class="data-cell"><span class="act-name">PSF RURAL · IGOR</span><span class="loc-chip loc-psf2">UBS Ten. Walter José — Socorro</span></td>
         <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
       </tr>
       <tr>
         <td class="row-header turn-afternoon"><span class="turn-emoji">🌤</span><span class="turn-time">13h&nbsp;·&nbsp;18h</span></td>
-        <td class="data-cell"><span class="cell-free">Sem atividade (segunda)</span></td>
         <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
         <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
-        <td class="data-cell"><span class="cell-free">Sem atividade (quinta)</span></td>
+        <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
+        <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
         <td class="data-cell"><span class="cell-free">Sem atividade (sexta)</span></td>
         <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
       </tr>
@@ -1304,19 +1343,19 @@ body::before{
     <tbody>
       <tr>
         <td class="row-header turn-morning"><span class="turn-emoji">☀️</span><span class="turn-time">07h&nbsp;·&nbsp;12h</span></td>
+        <td class="data-cell"><span class="cell-free">Sem atividade (segunda)</span></td>
         <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
         <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
-        <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
-        <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
+        <td class="data-cell"><span class="cell-free">Sem atividade (quinta)</span></td>
         <td class="data-cell"><span class="act-name">PSF RURAL · IGOR</span><span class="loc-chip loc-psf2">UBS Ten. Walter José — Socorro</span></td>
         <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
       </tr>
       <tr>
         <td class="row-header turn-afternoon"><span class="turn-emoji">🌤</span><span class="turn-time">13h&nbsp;·&nbsp;18h</span></td>
-        <td class="data-cell"><span class="cell-free">Sem atividade (segunda)</span></td>
         <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
         <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
-        <td class="data-cell"><span class="cell-free">Sem atividade (quinta)</span></td>
+        <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
+        <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
         <td class="data-cell"><span class="cell-free">Sem atividade (sexta)</span></td>
         <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
       </tr>
@@ -1335,19 +1374,19 @@ body::before{
     <tbody>
       <tr>
         <td class="row-header turn-morning"><span class="turn-emoji">☀️</span><span class="turn-time">07h&nbsp;·&nbsp;12h</span></td>
+        <td class="data-cell"><span class="cell-free">Sem atividade (segunda)</span></td>
         <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
         <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
-        <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
-        <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
+        <td class="data-cell"><span class="cell-free">Sem atividade (quinta)</span></td>
         <td class="data-cell"><span class="act-name">PSF RURAL · IGOR</span><span class="loc-chip loc-psf2">UBS Ten. Walter José — Socorro</span></td>
         <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
       </tr>
       <tr>
         <td class="row-header turn-afternoon"><span class="turn-emoji">🌤</span><span class="turn-time">13h&nbsp;·&nbsp;18h</span></td>
-        <td class="data-cell"><span class="cell-free">Sem atividade (segunda)</span></td>
         <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
         <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
-        <td class="data-cell"><span class="cell-free">Sem atividade (quinta)</span></td>
+        <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
+        <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
         <td class="data-cell"><span class="cell-free">Sem atividade (sexta)</span></td>
         <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
       </tr>
@@ -1366,19 +1405,19 @@ body::before{
     <tbody>
       <tr>
         <td class="row-header turn-morning"><span class="turn-emoji">☀️</span><span class="turn-time">07h&nbsp;·&nbsp;12h</span></td>
+        <td class="data-cell"><span class="cell-free">Sem atividade (segunda)</span></td>
         <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
         <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
-        <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
-        <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
+        <td class="data-cell"><span class="cell-free">Sem atividade (quinta)</span></td>
         <td class="data-cell"><span class="act-name">PSF RURAL · IGOR</span><span class="loc-chip loc-psf2">UBS Ten. Walter José — Socorro</span></td>
         <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
       </tr>
       <tr>
         <td class="row-header turn-afternoon"><span class="turn-emoji">🌤</span><span class="turn-time">13h&nbsp;·&nbsp;18h</span></td>
-        <td class="data-cell"><span class="cell-free">Sem atividade (segunda)</span></td>
         <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
         <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
-        <td class="data-cell"><span class="cell-free">Sem atividade (quinta)</span></td>
+        <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
+        <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
         <td class="data-cell"><span class="cell-free">Sem atividade (sexta)</span></td>
         <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
       </tr>
@@ -1397,19 +1436,19 @@ body::before{
     <tbody>
       <tr>
         <td class="row-header turn-morning"><span class="turn-emoji">☀️</span><span class="turn-time">07h&nbsp;·&nbsp;12h</span></td>
+        <td class="data-cell"><span class="cell-free">Sem atividade (segunda)</span></td>
         <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
         <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
-        <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
-        <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
+        <td class="data-cell"><span class="cell-free">Sem atividade (quinta)</span></td>
         <td class="data-cell"><span class="act-name">PSF RURAL · IGOR</span><span class="loc-chip loc-psf2">UBS Ten. Walter José — Socorro</span></td>
         <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
       </tr>
       <tr>
         <td class="row-header turn-afternoon"><span class="turn-emoji">🌤</span><span class="turn-time">13h&nbsp;·&nbsp;18h</span></td>
-        <td class="data-cell"><span class="cell-free">Sem atividade (segunda)</span></td>
         <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
         <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
-        <td class="data-cell"><span class="cell-free">Sem atividade (quinta)</span></td>
+        <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
+        <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
         <td class="data-cell"><span class="cell-free">Sem atividade (sexta)</span></td>
         <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
       </tr>
@@ -1428,19 +1467,19 @@ body::before{
     <tbody>
       <tr>
         <td class="row-header turn-morning"><span class="turn-emoji">☀️</span><span class="turn-time">07h&nbsp;·&nbsp;12h</span></td>
+        <td class="data-cell"><span class="cell-free">Sem atividade (segunda)</span></td>
         <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
         <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
-        <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
-        <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
+        <td class="data-cell"><span class="cell-free">Sem atividade (quinta)</span></td>
         <td class="data-cell"><span class="act-name">PSF RURAL · IGOR</span><span class="loc-chip loc-psf2">UBS Ten. Walter José — Socorro</span></td>
         <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
       </tr>
       <tr>
         <td class="row-header turn-afternoon"><span class="turn-emoji">🌤</span><span class="turn-time">13h&nbsp;·&nbsp;18h</span></td>
-        <td class="data-cell"><span class="cell-free">Sem atividade (segunda)</span></td>
         <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
         <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
-        <td class="data-cell"><span class="cell-free">Sem atividade (quinta)</span></td>
+        <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
+        <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
         <td class="data-cell"><span class="cell-free">Sem atividade (sexta)</span></td>
         <td class="data-cell cell-empty"><span class="cell-free">—</span></td>
       </tr>
@@ -1459,19 +1498,19 @@ body::before{
     <tbody>
       <tr>
         <td class="row-header turn-morning"><span class="turn-emoji">☀️</span><span class="turn-time">07h&nbsp;·&nbsp;12h</span></td>
+        <td class="data-cell"><span class="cell-free">Sem atividade (segunda)</span></td>
         <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
         <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
-        <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
-        <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
+        <td class="data-cell"><span class="cell-free">Sem atividade (quinta)</span></td>
         <td class="data-cell"><span class="act-name">PSF RURAL · IGOR</span><span class="loc-chip loc-psf2">UBS Ten. Walter José — Socorro</span></td>
         <td class="data-cell cell-empty"><span class="cell-free">Fim do 9º Período</span></td>
       </tr>
       <tr>
         <td class="row-header turn-afternoon"><span class="turn-emoji">🌤</span><span class="turn-time">13h&nbsp;·&nbsp;18h</span></td>
-        <td class="data-cell"><span class="cell-free">Sem atividade (segunda)</span></td>
         <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
         <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
-        <td class="data-cell"><span class="cell-free">Sem atividade (quinta)</span></td>
+        <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
+        <td class="data-cell"><span class="act-name">SAUL VIEIRA</span><span class="loc-chip loc-psf2">UBS Hugo Gurgel — Coroa do Meio</span></td>
         <td class="data-cell"><span class="cell-free">Sem atividade (sexta)</span></td>
         <td class="data-cell cell-empty"><span class="cell-free">Fim do 9º Período</span></td>
       </tr>
